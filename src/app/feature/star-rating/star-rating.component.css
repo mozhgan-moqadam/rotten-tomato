@@ -1,0 +1,9 @@
+.heart {
+    font-size: 1.5rem; /* Adjust size as needed */
+    color: black; /* Default color for unfilled hearts */
+  }
+  
+  .heart.filled {
+    color: red; /* Color for filled hearts */
+  }
+  
